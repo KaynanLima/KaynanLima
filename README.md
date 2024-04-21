@@ -1,36 +1,32 @@
-<h2 align="center"> Introdução: Sobre Mim</h2>
+# 👋 Olá! Kaynan Lima aqui!</h2>
 
-Meu nome é Kaynan Lima de Matos e estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec. <br>
-Além disso, já cursei um Ensino Técnico de **Desenvolvimento de Sistemas**.
+<!--
+Adicionar os seguintes fatores quando estiver mais na ativa:
 
-Atualmente estou focando meus estudos em:
-> Linguagem de Programação C <br>
-> Excel
+<a href="https://github.com/KaynanLima/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaynanLima&hide=contribs&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/KaynanLima/convoychat">
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaynanLima&layout=compact&show_icons=true&theme=tokyonight&langs_count=8" />
+</a>
 
-Já tenho conhecimentos básicos sobre:
-> HTML <br>
-> CSS <br>
-> C# <br>
-> Python <br>
-> SQL
+<br><br>
+-->
 
-Atualmente estou tentando me desenvolver no quesito portfolio e aumentar a minha especialização.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec. <br>
+
+<b>Sobre mim:</b>
+- 🎓 Sou técnico em Desenvolvimento de Sistemas;
+- 📚 Estou estudando linguagem C e Excel;
+- 💻 Conhecimentos básicos de HTML, CSS, C# e Python.
+
+_Atualmente estou tentando me desenvolver no quesito portfolio e aumentar a minha especialização._
+
+<br>
 
 Deseja me contatar? Tente por aqui:
 > Email Primário: kaynan.matos@fatec.sp.gov.br <br>
 > Email Secundário: kaynan_lima@yahoo.com
+<br>
 
-<!--
-**KaynanLima/KaynanLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
