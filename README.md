@@ -18,7 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec. <br>
 <b>Sobre mim:</b>
 - 🎓 Sou técnico em Desenvolvimento de Sistemas;
 - 📚 Estou estudando linguagem C;
-- 💻 Conhecimentos básicos de HTML, CSS, C#, Python e Excel.
+- 💻 Conhecimentos de HTML, CSS, C#, Python, SQL e Excel.
 
 _Atualmente estou tentando me desenvolver no quesito portfolio e aumentar a minha especialização._
 
